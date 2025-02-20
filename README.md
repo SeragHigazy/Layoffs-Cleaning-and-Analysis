@@ -8,7 +8,18 @@ The dataset contained duplicate records, NULL values, and inconsistent formattin
 1️⃣ **Removing Duplicates** using `ROW_NUMBER() OVER()`.  
 2️⃣ **Standardizing Data** (trimming spaces, converting text to lowercase).  
 3️⃣ **Handling NULL Values** (filling missing data where possible).  
-4️⃣ **Changing Data Types** for consistency (e.g., converting `TEXT` to `DATE`).  
+4️⃣ **Changing Data Types** for consistency (e.g., converting `TEXT` to `DATE`). 
+
+## 🖼️ Data Cleaning Process
+
+### 🔴 Before Cleaning  
+Here’s how the dataset looked before cleaning:  
+![Before Cleaning](Before%20Cleaning.jpg)
+
+### 🟢 After Cleaning  
+Here’s how the dataset looks after cleaning:  
+![After Cleaning](cleaned_data.png)
+
 
 ## 📂 Files Included:
 - `Project.sql` → The SQL script used for cleaning.  
