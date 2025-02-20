@@ -19,7 +19,7 @@ The dataset contained duplicate records, NULL values, and inconsistent formattin
 ---
 
 ### 🔗 Connect with me:  
-📌 **LinkedIn:** [Your LinkedIn Profile](www.linkedin.com/in/serag-higazy-3ab4641b6)  
+📌 **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/serag-higazy-3ab4641b6/)  
 📌 **Portfolio:** [Your Portfolio](https://higazyserag1.wixsite.com/portfolio) 
 
 
