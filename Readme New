@@ -1,0 +1,32 @@
+# Layoffs Data Project (SQL Cleaning & Analysis)
+
+This project explores and analyzes a layoffs dataset using SQL. It includes both the cleaning and analytical phases.
+
+## 🔧 Phase 1: Data Cleaning (SQL)
+
+- Removed duplicates
+- Fixed null values
+- Standardized company names
+- Cleaned and transformed date and numeric columns
+
+📂 Location: `data_cleaning/layoffs_cleaning.sql`
+
+---
+
+## 📊 Phase 2: Data Analysis (SQL)
+
+- Total layoffs by company, year, industry, and location
+- Companies that laid off 100% of employees
+- Top companies per year by number of laid-off employees
+
+📂 Location: `sql_analysis/layoffs_analysis.sql`
+
+---
+
+
+### 🔗 Connect with me:  
+📌 **LinkedIn:** [Serag Higazy](https://www.linkedin.com/in/serag-higazy-3ab4641b6/)  
+📌 **Portfolio:** [Serag Higazy](https://higazyserag1.wixsite.com/portfolio) 
+
+
+
